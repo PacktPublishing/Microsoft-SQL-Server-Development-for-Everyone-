@@ -1,0 +1,17 @@
+Review Table Creation
+https://gist.github.com/trevoirwilliams/b39c1691e1d1c172dd59a2798ae9a776
+
+Select Data from Tables - Adding Filtering
+https://gist.github.com/trevoirwilliams/deedf2cfbff323eea7c0650751a55bd5
+
+Select Data from Table - Exporting Data
+https://gist.github.com/trevoirwilliams/7035b3af84c5d7707ffe13e7c986e8be
+
+Update Data in Tables
+https://gist.github.com/trevoirwilliams/15aa66d4ef7075b50e77e89c98a6434a
+
+Delete Data from the Tables
+https://gist.github.com/trevoirwilliams/5e262fa269277ff23eb04b6f5a70dba3
+
+SQL Transactions
+https://gist.github.com/trevoirwilliams/5908284df835336da7d639ae8cf35b1a

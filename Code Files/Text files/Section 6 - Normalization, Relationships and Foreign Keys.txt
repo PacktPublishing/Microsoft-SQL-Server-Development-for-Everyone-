@@ -1,0 +1,16 @@
+Creating a Relationship in SQL Server
+https://gist.github.com/trevoirwilliams/922223d04666f5e5d54183dd0c543f98
+
+Instering Records in One To Many Related Tables
+https://gist.github.com/trevoirwilliams/d26954cb3358fb54803e7643258a5f23
+
+Instering Records in Many To Many Related Tables
+https://gist.github.com/trevoirwilliams/6db78458cca184372dd59c7563002730
+
+Using Inner Joins To Read Related Data
+https://gist.github.com/trevoirwilliams/13616a7ffdfe7b3a060cce25b445af89
+
+Understanding Left. Right and Full Joins
+https://gist.github.com/trevoirwilliams/2716fd492bdfa8da34a822b4ab830e04
+
+
